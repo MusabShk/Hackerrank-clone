@@ -1,0 +1,21 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #f3f3f3;
+}
+
+p {
+  word-wrap: break-word;
+}
+
+.child-div {
+  display: inline-block;
+}
+
+.parent-div {
+  text-align: center;
+}
