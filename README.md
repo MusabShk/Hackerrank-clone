@@ -1,6 +1,6 @@
 # Hackerrank - landing page
 
-Landing page similar to Hackerrank, giving it a similar look and feel. 
+Landing page similar to Hackerrank, giving it a similar look and feel.</br>
 Build using React.js an Bootstrap 5.0
 
 ### Home page 
