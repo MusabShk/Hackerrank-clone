@@ -15,7 +15,8 @@ Build using React.js an Bootstrap 5.0
 ![](app-screenshots/3.png)
 
 
-### Form section (For Companies)
+### Form section 
+(For Companies)
 
 ![](app-screenshots/4.1.gif)
 
