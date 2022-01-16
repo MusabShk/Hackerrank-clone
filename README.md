@@ -23,4 +23,6 @@ Build using React.js an Bootstrap 5.0
 
 ### Mobile responsive
 
-![](app-screenshots/5.png)
+<p align="center">
+  <img src="app-screenshots/5.png" width="350" height="600" />
+</p>
